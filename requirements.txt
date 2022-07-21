@@ -1,0 +1,9 @@
+fastapi==0.79.0
+uvicorn==0.18.2
+passlib==1.7.4
+python-jose[cryptography]==3.3.0
+python-multipart==0.0.5
+mongoengine==0.24.2
+pydantic~=1.9.1
+authlib~=1.0.1
+sqlalchemy~=1.4.39
